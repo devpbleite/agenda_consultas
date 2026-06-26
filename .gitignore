@@ -1,0 +1,22 @@
+# Logs
+*.log
+logs/
+
+# Banco H2 gerado em runtime
+data/
+
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
