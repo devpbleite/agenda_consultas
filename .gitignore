@@ -9,13 +9,14 @@ data/
 target/
 !.mvn/wrapper/maven-wrapper.jar
 
-# IDE
+# IDE / Utilitários
 .idea/
 *.iml
 .vscode/
 .classpath
 .project
 .settings/
+requests.http
 
 # OS
 .DS_Store
